@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esanchezlaulhe88
+- 👋 Hi, I’m Elena
 - 👀 I’m interested in Logistics, Supply Chain & Data Analysis 
 - 🌱 I’m currently learning Programming Languages such as Python or R and I'm delving into AI and its tools
 
